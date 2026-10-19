@@ -1,14 +1,14 @@
-# Hive Local Thermostat (RETIRED)
+# Hive Local Thermostat
 
 Local Hive Thermostat MQTT integration for Home Assistant
 
-## ⚠️ This integration is retired and there will be no further updates
+## Maintained fork
 
-Due to moving to a new heating system I no longer have a Hive thermostat and am unable to maintain this integration.
+This is a maintained fork of [andrew-codechimp/HA-Hive-Local-Thermostat](https://github.com/andrew-codechimp/HA-Hive-Local-Thermostat), which its author retired in March 2026 after moving away from Hive. Many thanks to Andrew for the original work.
 
-I am leaving the issues open so that the community can hopefully provide support, I will not be able to make any changes and test them.
+Install it in HACS as a custom repository (`https://github.com/larryb84/HA-Hive-Local-Thermostat`, type Integration). It keeps the same integration domain, so it is a drop-in replacement: remove the original in HACS, download this one, then restart Home Assistant. Your existing devices and entities are kept.
 
-If anyone would like to take over maintaining this integration please reach out and I will put a link to your forked repo here.
+It is tested on an OTR1 receiver with a Hive Thermostat Mini.
 
 ## Instructions
 
