@@ -32,7 +32,7 @@ Actions are provided to natively boost the Heating `hive_local_thermostat.boost_
 
 There are also matching actions to cancel the native boost for Heating `hive_local_thermostat.cancel_boost_heating` and Water `hive_local_thermostat.cancel_boost_water` (SLR2 only), these actions will return the heating/water back to the state they were before the boost.
 
-![Hive Screenshot](https://raw.githubusercontent.com/larryb84/HA-Hive-Local-Thermostat/main/images/screenshot.png "Hive Controls")
+![Hive Screenshot](images/screenshot.png "Hive Controls")
 
 This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by Hive.
 
